@@ -1,1 +1,1 @@
-Dev version of the PiHosting website
+The PiHosting Website
